@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Eric Shin
 
-<!--
-**ericshin13/ericshin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🎓 Graduate Student in Data Science at University of Notre Dame (Class of 2026)  
+- 🎓 B.A. from University of Washington Bothell (Class of 2023)  
+- 📚 Background in Educational Research & Statistical Programming  
+- 📊 Skilled in R, learning Python & SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Goals
+
+- ✅ Looking for Graduate Data Science Internships & Full-Time Roles  
+- ✅ Improving my Python, SQL, & Machine Learning Skills  
+- ✅ Building Projects with Real-World Datasets
+
+## ✨ Fun Facts
+
+- 🏀 Love Playing Basketball  
+- 🎶 Huge Fan of TWICE (especially Chaeyoung!)  
+- 🎮 Halo Nerd
+
+📫 Reach me at: [ericshin1@hotmail.com](mailto:ericshin1@hotmail.com)
