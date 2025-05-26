@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 ## ✨ Fun Facts
 
 - 🏀 Love Playing Basketball  
-- 🎶 Huge Fan of TWICE (especially Chaeyoung!)  
+- 🎶 Huge Fan of TWICE (Especially Chaeyoung!)  
 - 🎮 Halo Nerd
 
 📫 Reach me at: [ericshin1@hotmail.com](mailto:ericshin1@hotmail.com)
