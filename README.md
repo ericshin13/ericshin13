@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - 🎓 Graduate Student in Data Science at University of Notre Dame (Class of 2026)  
-- 🎓 B.A. from University of Washington Bothell (Class of 2023)  
+- 🎓 B.A. in Mathematical Thinking & Visualization from University of Washington Bothell (Class of 2023)  
 - 📚 Background in Educational Research & Statistical Programming  
 - 📊 Skilled in R, Learning Python & SQL
 
