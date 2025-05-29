@@ -18,7 +18,8 @@
 
 ## ✨ Fun Facts
 
-- 🏀 Love Playing Basketball  
+- 🏀 Love Playing Basketball
+- ☘️ Will Always Bleed Celtic Green
 - 🎶 Huge Fan of TWICE (Especially Chaeyoung!)  
 - 🎮 Halo Nerd
 
