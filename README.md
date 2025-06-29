@@ -20,7 +20,8 @@
 
 - 🏀 Love Playing Basketball
 - ☘️ Will Always Bleed Celtic Green
-- 🎶 Huge Fan of TWICE (Especially Chaeyoung!)  
+- 🎬 Avid K-Drama Enthusiast
+- 🎶 Huge Fan of TWICE  
 - 🎮 Halo Nerd
 
 📫 Reach me at: [ericshin1@hotmail.com](mailto:ericshin1@hotmail.com)
