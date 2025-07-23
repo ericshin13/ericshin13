@@ -20,8 +20,7 @@
 
 - 🏀 Love Playing Basketball
 - ☘️ Will Always Bleed Celtic Green
-- 🎬 Avid K-Drama Enthusiast
-- 🎶 Huge Fan of TWICE  
+- 🎬 Avid K-Drama Enthusiast  
 - 🎮 Halo Nerd
 
 📫 Reach me at: [ericshin1@hotmail.com](mailto:ericshin1@hotmail.com)
