@@ -20,7 +20,7 @@
 
 - 🏀 Love Playing Basketball
 - ☘️ Will Always Bleed Celtic Green
-- 💖 ONCE and proud
+- 💖 ONCE And Proud
 - 🎬 Avid K-Drama Enthusiast  
 - 🎮 Halo Nerd
 
