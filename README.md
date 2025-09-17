@@ -19,9 +19,9 @@
 ## ✨ Fun Facts
 
 - 🏀 Love playing basketball
-- ☘️ Will always bleed Celtic green
-- 💖 ONCE and proud
-- 🎬 Avid K-Drama enthusiast  
-- 🎮 Halo nerd
+- ☘️ Will always bleed Celtic Green
+- 💖 ONCE and Proud
+- 🎬 Avid K-Drama Enthusiast  
+- 🎮 Halo Nerd
 
 📫 Reach me at: [ericshin1@hotmail.com](mailto:ericshin1@hotmail.com)
