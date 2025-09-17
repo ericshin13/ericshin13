@@ -18,7 +18,7 @@
 
 ## ✨ Fun Facts
 
-- 🏀 Love playing basketball
+- 🏀 Love playing Basketball
 - ☘️ Will always bleed Celtic Green
 - 💖 ONCE and Proud
 - 🎬 Avid K-Drama Enthusiast  
