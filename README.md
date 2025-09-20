@@ -8,12 +8,12 @@
 - 🎓 B.A. in Mathematical Thinking & Visualization from University of Washington Bothell (Class of 2023)  
 - 📚 Background in Statistical Programming & Data Analysis 
 - 📊 Skilled in R, Linear Regression, & Statistical Testing
-- 🖥️ Learning Google Sheets, Python, SQL, & Machine Learning
+- 🖥️ Learning Google Sheets, Python, SQL, & Advanced Machine Learning
 
 ## 🔍 Current Goals
 
 - ✅ Looking for Graduate Data Science Internships & Full-Time Roles  
-- ✅ Improving my Google Sheets, Python, SQL, & Machine Learning Skills  
+- ✅ Improving my Google Sheets, Python, SQL, & Advanced Machine Learning Skills  
 - ✅ Building Projects with Real-World Datasets
 
 ## ✨ Fun Facts
