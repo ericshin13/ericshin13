@@ -5,10 +5,10 @@
 ## 🧪 About Me
 
 - 🏫 Graduate Student in Data Science at University of Notre Dame (Class of 2026)  
-- 🎓 B.A. in Mathematical Thinking & Visualization from University of Washington Bothell (Class of 2023)  
+- 🎓 B.A. in Mathematical Thinking & Visualization from University of Washington Bothell (Class of 2023)
+- 🟢 Freelance Data Scientist at Upwork (Providing data cleaning, exploratory data analysis, and predictive modeling services to clients)  
 - 📚 Background in Statistical Programming & Data Analysis 
 - 📊 Skilled in R, Linear Regression, & Statistical Testing
-- 🖥️ Learning Google Sheets, Python, SQL, & Advanced Machine Learning
 
 ## 🔍 Current Goals
 
