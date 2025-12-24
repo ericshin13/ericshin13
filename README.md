@@ -12,8 +12,8 @@
 
 ## 🔍 Current Goals
 
-- ✅ Looking for Graduate Data Science Internships & Full-Time Roles  
-- ✅ Improving my Google Sheets, Python, SQL, & Advanced Machine Learning Skills  
+- ✅ Looking for Full-Time Data Analyst Roles  
+- ✅ Improving my Excel, Python, SQL, & Advanced Machine Learning Skills  
 - ✅ Building Projects with Real-World Datasets
 
 ## ✨ Fun Facts
