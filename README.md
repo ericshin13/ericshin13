@@ -13,7 +13,7 @@
 ## 🔍 Current Goals
 
 - ✅ Looking for Full-Time Roles in Data Analysis, Statistics, & Research
-- ✅ Improving my Excel, Python, SQL, Tableau, & Machine Learning Skills  
+- ✅ Improving my Excel, Python, SQL, & Tableau Skills
 - ✅ Building Projects with Real-World Datasets
 
 ## ✨ Fun Facts
