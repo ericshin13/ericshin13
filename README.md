@@ -12,7 +12,7 @@
 
 ## 🔍 Current Goals
 
-- ✅ Looking for Full-Time Data Analyst Roles  
+- ✅ Looking for Full-Time Roles in Data Analysis, Statistics, & Research
 - ✅ Improving my Excel, Python, SQL, & Advanced Machine Learning Skills  
 - ✅ Building Projects with Real-World Datasets
 
