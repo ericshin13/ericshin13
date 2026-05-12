@@ -4,7 +4,7 @@
 
 ## 🧪 About Me
 
-- 🏫 Graduate Student in Data Science at University of Notre Dame (Class of 2026)  
+- 🏫 Master of Science Graduate in Data Science at University of Notre Dame (Class of 2026)  
 - 🎓 B.A. in Mathematical Thinking & Visualization from University of Washington Bothell (Class of 2023)
 - 📚 Background in Statistical Programming, Data Analysis, & Visualization 
 - 📊 Skilled in R Programming
